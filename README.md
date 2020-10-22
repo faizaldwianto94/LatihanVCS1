@@ -141,4 +141,13 @@ nim:312010467
 JIKA SEMUA PROSES DIATAS SUDAH DILAKUKAN SEMUA TANPA ADA YANG TERLEWAT. KALIAN BISA LANGSUNG MELIHAT ATAU MENGECEK PERUBAHAN REPOSITORY YANG TELAH DI COMMIT DAN DI PUSH DARI REMOTE DENGAN CARA MEMBUKANYA PADA GITHUB KALIAN SENDIRI.
 
 
-
+![Screenshot (47)](https://user-images.githubusercontent.com/72909858/96850614-36f08080-1481-11eb-971d-86f3efdc1368.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/72909858/96850633-3d7ef800-1481-11eb-92cc-7d92a7dd74eb.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/72909858/96850639-3fe15200-1481-11eb-8156-8db4f2ea3ae4.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/72909858/96850640-41ab1580-1481-11eb-8676-b16e25f5aabc.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/72909858/96850641-4243ac00-1481-11eb-8ced-851e56f8067d.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/72909858/96850644-4374d900-1481-11eb-8c7b-401d8a0f656c.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/72909858/96850649-440d6f80-1481-11eb-86fe-cfb2ed49dae7.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/72909858/96850653-453e9c80-1481-11eb-8cb8-7cfe593cc805.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/72909858/96850657-45d73300-1481-11eb-8f94-93d3e6f1a2ec.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/72909858/96850660-466fc980-1481-11eb-92c6-70de2a1b6c46.png)
