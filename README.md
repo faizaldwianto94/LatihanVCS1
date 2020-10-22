@@ -19,16 +19,15 @@ nim:312010467
   
    - jika sudah mendapat tampilan seperti gambar dibawah ini, itu mengartikan bahwa git kalian telah berhasil terinstall.
   
-![Screenshot (47)](https://user-images.githubusercontent.com/72909858/96850614-36f08080-1481-11eb-971d-86f3efdc1368.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/72909858/96850641-4243ac00-1481-11eb-8ced-851e56f8067d.png)
 
    - Selanjutnya yang perlu kita lakukan adalah mengkonfigurasikan username & email kita pada git dengan mengetikan syntax: *'git config --global user.name "Nama Anda"'  'git config --global user.email "Email Anda"'*. Seperti pada gambar dibawah.
   
 
-![Screenshot (48)](https://user-images.githubusercontent.com/72909858/96850633-3d7ef800-1481-11eb-92cc-7d92a7dd74eb.png)
 
    - Jika sudah, lakukanlah pengecekan untuk mengetahui apakah kita sudah terdaftar atau belum dengan mengetikan syntax: *'git config --global user.name'  'git config --global user.email'*. Seperti pada gambar dibawah.
   
-![Screenshot (49)](https://user-images.githubusercontent.com/72909858/96850639-3fe15200-1481-11eb-8156-8db4f2ea3ae4.png)
+
 ### LANGKAH AWAL MENGGUNAKAN GITHUB
 
 * ### LOGIN AKUN GITHUB
@@ -141,10 +140,11 @@ nim:312010467
 JIKA SEMUA PROSES DIATAS SUDAH DILAKUKAN SEMUA TANPA ADA YANG TERLEWAT. KALIAN BISA LANGSUNG MELIHAT ATAU MENGECEK PERUBAHAN REPOSITORY YANG TELAH DI COMMIT DAN DI PUSH DARI REMOTE DENGAN CARA MEMBUKANYA PADA GITHUB KALIAN SENDIRI.
 
 
-
-
+![Screenshot (48)](https://user-images.githubusercontent.com/72909858/96850633-3d7ef800-1481-11eb-92cc-7d92a7dd74eb.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/72909858/96850639-3fe15200-1481-11eb-8156-8db4f2ea3ae4.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/72909858/96850614-36f08080-1481-11eb-971d-86f3efdc1368.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/72909858/96850640-41ab1580-1481-11eb-8676-b16e25f5aabc.png)
-![Screenshot (51)](https://user-images.githubusercontent.com/72909858/96850641-4243ac00-1481-11eb-8ced-851e56f8067d.png)
+
 ![Screenshot (52)](https://user-images.githubusercontent.com/72909858/96850644-4374d900-1481-11eb-8c7b-401d8a0f656c.png)
 ![Screenshot (53)](https://user-images.githubusercontent.com/72909858/96850649-440d6f80-1481-11eb-86fe-cfb2ed49dae7.png)
 ![Screenshot (54)](https://user-images.githubusercontent.com/72909858/96850653-453e9c80-1481-11eb-8cb8-7cfe593cc805.png)
