@@ -23,10 +23,11 @@ nim:312010467
 
    - Selanjutnya yang perlu kita lakukan adalah mengkonfigurasikan username & email kita pada git dengan mengetikan syntax: *'git config --global user.name "Nama Anda"'  'git config --global user.email "Email Anda"'*. Seperti pada gambar dibawah.
   
-
+![Screenshot (52)](https://user-images.githubusercontent.com/72909858/96850644-4374d900-1481-11eb-8c7b-401d8a0f656c.png)
 
    - Jika sudah, lakukanlah pengecekan untuk mengetahui apakah kita sudah terdaftar atau belum dengan mengetikan syntax: *'git config --global user.name'  'git config --global user.email'*. Seperti pada gambar dibawah.
   
+![Screenshot (53)](https://user-images.githubusercontent.com/72909858/96850649-440d6f80-1481-11eb-86fe-cfb2ed49dae7.png)
 
 ### LANGKAH AWAL MENGGUNAKAN GITHUB
 
@@ -63,29 +64,19 @@ nim:312010467
 
   - Bukalah profile kalian, kemudia pilih dibagian *start a project*, atau bisa juga dengan menekan lambang (+) pada bagian pojok kanan atas.
   - Setelahnya kamu dapat pergi pada tulisan *'New Repository'*
-
-![Screenshot (9)](https://user-images.githubusercontent.com/72906579/96259118-5140df00-0fe7-11eb-9584-711c7bdb81f5.png)
-
+  
+![Screenshot (47)](https://user-images.githubusercontent.com/72909858/96850614-36f08080-1481-11eb-971d-86f3efdc1368.png)
 
   - Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik.
 
-![Screenshot (10)](https://user-images.githubusercontent.com/72906579/96259138-5867ed00-0fe7-11eb-9225-a6cef6649368.png)
-
-
   - Pilih kolom yang bertuliskan 'README file' pada pilihan yang diberikan.
-  
-![Screenshot (11)](https://user-images.githubusercontent.com/72906579/96259143-5a31b080-0fe7-11eb-9ecb-37ba8afa62bb.png)
-
 
  - Setelah itu arahkan kursor pada bagian *'Create Repository'*
 
-![Screenshot (12)](https://user-images.githubusercontent.com/72906579/96259147-5bfb7400-0fe7-11eb-8224-e5d7bbb0abfb.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/72909858/96850653-453e9c80-1481-11eb-8cb8-7cfe593cc805.png)
 
 
  - Setelah mendapat tampilan seperti gambar dibawah, berarti Repository kalian sudah berhasil dibuat. dan kalian juga bisa tekan pada tulisan 'README' yang berwarna biru untuk membukanya.
-
-![Screenshot (13)](https://user-images.githubusercontent.com/72906579/96259170-6cabea00-0fe7-11eb-9ce5-84d99854a36f.png)
-
 
  - Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya pada lembar kerja, kalian bisa menekan gambar pensil seperti pada gambar dibawah ini.
 
@@ -142,11 +133,9 @@ JIKA SEMUA PROSES DIATAS SUDAH DILAKUKAN SEMUA TANPA ADA YANG TERLEWAT. KALIAN B
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/72909858/96850633-3d7ef800-1481-11eb-92cc-7d92a7dd74eb.png)
 ![Screenshot (49)](https://user-images.githubusercontent.com/72909858/96850639-3fe15200-1481-11eb-8156-8db4f2ea3ae4.png)
-![Screenshot (47)](https://user-images.githubusercontent.com/72909858/96850614-36f08080-1481-11eb-971d-86f3efdc1368.png)
+
 ![Screenshot (50)](https://user-images.githubusercontent.com/72909858/96850640-41ab1580-1481-11eb-8676-b16e25f5aabc.png)
 
-![Screenshot (52)](https://user-images.githubusercontent.com/72909858/96850644-4374d900-1481-11eb-8c7b-401d8a0f656c.png)
-![Screenshot (53)](https://user-images.githubusercontent.com/72909858/96850649-440d6f80-1481-11eb-86fe-cfb2ed49dae7.png)
-![Screenshot (54)](https://user-images.githubusercontent.com/72909858/96850653-453e9c80-1481-11eb-8cb8-7cfe593cc805.png)
+
 ![Screenshot (55)](https://user-images.githubusercontent.com/72909858/96850657-45d73300-1481-11eb-8f94-93d3e6f1a2ec.png)
 ![Screenshot (56)](https://user-images.githubusercontent.com/72909858/96850660-466fc980-1481-11eb-92c6-70de2a1b6c46.png)
